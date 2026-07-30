@@ -1,0 +1,7 @@
+
+pandas==1.5.3
+numpy==1.24.3
+MetaTrader5==5.0.45
+mysql-connector-python==8.0.33
+ta-lib==0.4.28
+python-dotenv==1.0.0
